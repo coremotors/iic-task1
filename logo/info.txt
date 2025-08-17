@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Ubuntu-R
+font link: https://fonts.google.com/specimen/Ubuntu
+font author: Dalton Maag
+font author site: http://www.daltonmaag.com/
+Slogan Font: OFLGoudyStMTT.ttf
+
+icon designer: Melissa Gaviria
+icon designer link: /creator/melissagaviria/
+        
+{"bg":"#F5F1F2","icon-gradient-0":"#DE3837","icon-gradient-1":"#D2D4D6","font":"#2C0D0D","slogan":"#402121"}
+      
